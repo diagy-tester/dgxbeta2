@@ -1,0 +1,15 @@
+{
+    "id": "comp2",
+    "diagy_attribute" : "component",
+    "label": "label_text2",
+    "connections": [
+        "github_connection",
+        "user_connection"
+    ],
+    "description": "description_1\2",
+    "tags": [
+        "tag1",
+        "tag2"
+    ]
+
+}
